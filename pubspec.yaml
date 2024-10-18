@@ -1,0 +1,29 @@
+name: todo_riv_fs_app
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.3
+
+dependencies:
+  cloud_firestore: ^5.4.4
+  firebase_core: ^3.6.0
+  flutter:
+    sdk: flutter
+  flutter_local_notifications: ^17.2.3
+  flutter_riverpod: ^2.5.3
+  gap: ^3.0.1
+  intl: ^0.19.0
+  riverpod: ^2.5.3
+  timezone: ^0.9.4
+
+dev_dependencies:
+  flutter_lints: ^4.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/

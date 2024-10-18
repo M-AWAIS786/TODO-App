@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "678041029407",
+    "project_id": "taskify-bc367",
+    "storage_bucket": "taskify-bc367.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678041029407:android:17f6d9c7c35df517b0be2a",
+        "android_client_info": {
+          "package_name": "com.example.todo_riv_fs_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdStcwEuRDrBB5MEASZBr4csXCLY3hh3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
